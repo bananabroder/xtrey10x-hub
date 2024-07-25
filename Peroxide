@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5fad4e8036c7181319c6c916d193b2c3.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/Peroxide"))()
